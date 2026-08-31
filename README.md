@@ -1,5 +1,4 @@
-studing data science and economics at tufts university
-currently studying Neural Networks
+data science and economics
 
 <!---
 xblam/xblam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
